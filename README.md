@@ -44,29 +44,3 @@ Berikut adalah kategori file yang didukung oleh skrip ini:
     atau
    ```bash
    python3 organizer.py
-
-Contoh:
-
-Sebelum:
-/Users/petrajuliansen/Documents/Rapid
-  ├── file1.txt
-  ├── file2.pdf
-  ├── gambar1.jpg
-  ├── video1.mp4
-  ├── presentasi1.pptx
-  └── file_lain.xyz
-
-Sesudah:
-/Users/petrajuliansen/Documents/Rapid
-  ├── TXT
-  │   └── file1.txt
-  ├── PDF
-  │   └── file2.pdf
-  ├── Picture
-  │   └── gambar1.jpg
-  ├── Video
-  │   └── video1.mp4
-  ├── PPT
-  │   └── presentasi1.pptx
-  └── ETC
-      └── file_lain.xyz
